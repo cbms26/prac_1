@@ -88,54 +88,54 @@ footer {
 /*style for hero section*/
 #hero {
     display: flex;
-    align-items: center; /* Aligns items vertically */
-    justify-content: space-evenly; /* Spaces out the text and image */
-    padding: 60px; /* Adds padding around the content */
-    background-color: #e8f5e9; /* Optional: background color for the hero section */
+    align-items: center; 
+    justify-content: space-evenly; 
+    padding: 60px; 
+    background-color: #e8f5e9; 
 }
 
 #hero .text-container {
-    max-width: 50%; /* Restricts text container to half of the hero section */
+    max-width: 50%; 
 }
 
 #hero h1 {
-    font-size: 2.5rem; /* Larger text for the headline */
-    color: #27632a; /* Dark green color for visibility */
-    margin-bottom: 20px; /* Space below the headline */
+    font-size: 2.5rem; 
+    color: #27632a; 
+    margin-bottom: 20px; 
 }
 
 #hero p {
-    font-size: 1.2rem; /* Comfortable reading size */
-    margin-bottom: 20px; /* Space below the paragraph */
-    color: #333; /* Darker text for readability */
+    font-size: 1.2rem; 
+    margin-bottom: 20px; 
+    color: #333; 
 }
 
 #hero a.btn {
-    padding: 10px 20px; /* Padding inside the button */
-    background-color: #4caf50; /* Green color for the button */
-    color: white; /* White text inside the button */
-    border-radius: 5px; /* Rounded corners for the button */
-    text-decoration: none; /* Removes underline from the link */
-    transition: background-color 0.3s; /* Smooth transition for hover effect */
+    padding: 10px 20px; 
+    background-color: #4caf50; 
+    color: white; 
+    border-radius: 5px; 
+    text-decoration: none; 
+    transition: background-color 0.3s; 
 }
 
 #hero a.btn:hover {
-    background-color: #388e3c; /* Darker green on hover */
+    background-color: #388e3c; 
 }
 
 #hero img {
-    width: 500px; /* Adjust size as needed */
-    height: 500px; /* Keep height and width the same for a perfect circle */
-    border-radius: 50%; /* This makes the image circular */
-    object-fit: cover; /* Ensures the image covers the space without distorting */
-    border: 4px solid white; /* Optional: adds a white border around the image */
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Optional: adds subtle shadow for depth */
+    width: 500px; 
+    height: 500px;
+    border-radius: 50%; 
+    object-fit: cover; 
+    border: 4px solid white;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); 
 }
 
 /*Testimonials css*/
 #testimonials {
-    background-color: #f8f9fa; /* Light background for the section */
-    color: #333; /* Darker text for readability */
+    background-color: #f8f9fa; 
+    color: #333;
 }
 
 .testimonial-card {
@@ -157,7 +157,7 @@ footer {
 .testimonial-img {
     width: 80px;
     height: 80px;
-    border-radius: 50%; /* Makes the image circular */
+    border-radius: 50%; 
     margin-top: 20px;
 }
 
@@ -167,7 +167,7 @@ footer {
 }
 
 h2 {
-    color: #27632a; /* Theme color for headings */
+    color: #27632a; 
 }
 
 
